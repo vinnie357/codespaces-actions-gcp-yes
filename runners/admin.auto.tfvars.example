@@ -1,0 +1,10 @@
+# gcp
+project="myproject"
+region="us-east1"
+zone="us-east1-b"
+# runner config
+repoName="codespaces-actions-gcp-yes"
+repoOwner="vinnie357"
+githubToken="mypersonal access token"
+repoURL="https://github.com/vinnie357/codespaces-actions-gcp-yes"
+runners=1
