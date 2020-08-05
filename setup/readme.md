@@ -2,6 +2,8 @@
 ```bash
 . terraform.sh
 . gcloud.sh
+. tools.sh
+```
 #
 gcloud auth login
 # 

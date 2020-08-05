@@ -1,0 +1,9 @@
+# gcp
+project="myproject"
+region="us-east1"
+zone="us-east1-b"
+# admin
+adminAccountName="notadmin"
+adminSrcAddr="172.100.10.10/32"
+# git
+gitUser="mygituser"
