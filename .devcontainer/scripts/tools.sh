@@ -3,6 +3,6 @@
 echo "---getting tools---"
 sudo apt-get update
 sudo apt-get install -y jq
-. gcloud.sh
-. terraform.sh
+. ./gcloud.sh
+. ./terraform.sh
 echo "---tools done---"
